@@ -1,1 +1,1 @@
-﻿In this game, users are able to play against each other in a game of Triple Triad on 3x3 grid. The simple contract logic allows a user to create a game, and another user to join their game and play until the grid is completely filled.
+﻿In this game, users are able to play against each other in a game of Triple Triad on a 3x3 grid. The simple contract logic allows a user to create a game, and another user to join their game and play until the grid is completely filled.
